@@ -1,0 +1,21 @@
+{
+  "name": "lin3615/walmart_orders",
+  "description": "沃尔玛订单下载，上传跟踪号",
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lin3615",
+      "email": "516005375@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Lin3615\\WalmartOrders\\": "src"
+    }
+  }
+}
